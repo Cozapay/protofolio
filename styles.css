@@ -1,0 +1,91 @@
+/* Reset some default styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f5f5;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #81f3d0;
+    border-radius: 20px;
+}
+
+
+header {
+    background-color: #F0F0F0;
+    color: #32e1af;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #F0F0F0;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #32e1af;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.cta-section {
+    background-color: #F0F0F0;
+    color: #32e1af;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #523ca0;
+    color: #32e1af;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.features-section {
+    margin-bottom: 40px;
+}
+
+.features-section ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.features-section li {
+    margin: 0 20px;
+}
+
+footer {
+    background-color: #f7f6f4;
+    color: #202222;
+    padding: 10px 0;
+}
+#account,
+#knowledge,
+#signals {
+    text-align: center;
+    margin-top:} 
+/* Add additional styles as needed */
